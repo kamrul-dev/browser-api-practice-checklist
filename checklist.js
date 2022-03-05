@@ -1,4 +1,28 @@
 /* 
+    1. Show output after 3.5 seconds
+    2. take a number using propmt then add 200 with that number. then alert the result
+    3. do you want to see the href. if ok, then console.log href.
+    4. puspose of cookies. write 5-7 lines in english
+    5. 3 differences between local storage vs session storage. 
+
+    ============
+
+    6. how javascript run? 5-7 lines.
+    7. list of things that are asynchronous in JS/browser
+    8. What is event loop in JS and how does it work?
+
+    ==================
+    more practice
+    ------------------
+    9. simple website with two input fields and a button. product name, product price . by clicking on the button product will be added to the local storage. You should be able to add multiple.
+    10. Display products on the website. If they exists on the local storage then display from there.
+
+    -----------------------========-------=--------====-=
+    1. Create a account in stack-overflow and spend 30 minute.
+*/
+
+
+/* 
 ১. setTimeout এর ভিতরে একটা কিছু কনসোল লগ করবে যেটা সাড়ে তিন সেকেন্ড পরে আউটপুট দেখাবে। ,
 
 ২. prompt দিয়ে ইউজারের কাছ থেকে একটা সংখ্যা নাও। সেটার সাথে ২০০যোগ করো। যোগ করতে গেলে parse করা লাগলে সেটা করো। তারপর সেই রেজাল্টকে alert দিয়ে আউটপুট দেখাও 
